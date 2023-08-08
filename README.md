@@ -54,7 +54,7 @@ If everything went well, you should see [this](https://jsfiddle.net/7u84j6kp/).
 Cloning the repo with all its history results in a ~2 GB download. If you don't need the whole history you can use the `depth` parameter to significantly reduce download size.
 
 ```sh
-git clone --depth=1 https://github.com/mrdoob/three.js.git
+git clone https://github.com/TalentedDeveloper19980105/three-js-example.git
 ```
 
 ### Change log
